@@ -1,2 +1,2 @@
 # FullStackOpen-UniversityofHelsinki-Course
-The Main directory to all my university projects in Full Stack Open, University of Helsinki's course (Finland).
+The main directory containing all my university projects from the Full Stack Open course, University of Helsinki (Finland).
